@@ -1,5 +1,5 @@
 # Croudfunding
-cette modif de warda
+cette modif de warda not rebased
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.7.
 
 ## Development server
